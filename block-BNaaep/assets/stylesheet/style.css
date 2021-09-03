@@ -46,3 +46,32 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
+
+/*custom styiling*/
+
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+
+}
+
+h1{ 
+    font-size: 24px;
+    padding-bottom: 10px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.header{
+    text-align: center;
+    padding: 20px 0;
+}
+.main-section{
+    text-align: center;
+    padding: 20px 0;
+}
